@@ -21,8 +21,8 @@ function draw() {
     noStroke();
     circle(bx, by, br * 2);
 
-    // Texto del Botón Rojo
-    fill(255); // Texto blanco
+    //boton verde
+    fill(255);
     if (estado == 4) {
       text("Hacerle caso", bx, by);
     } else {
