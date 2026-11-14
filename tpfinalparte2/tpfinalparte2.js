@@ -1,3 +1,5 @@
+// https://youtu.be/blfnbv-Rn4U
+
 let objJuego;
 let imgArbusto, imgPasto, imgCorazon;
 let imgFrente, imgEspalda, imgIzquierda, imgDerecha;
